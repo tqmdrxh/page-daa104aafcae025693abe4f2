@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "6e161083c72a504501316bc2",
+  "owner": "tqmdrxh",
+  "repo": "page-daa104aafcae025693abe4f2",
+  "title": "365VPN",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "daa104aafcae025693abe4f2",
+      "a": "365VPN",
+      "b": "",
+      "entity": "365VPN",
+      "brand": "365VPN",
+      "separator": "",
+      "path": "index.html",
+      "hash": "8d19cd2d4e97d730cc6df4458fe3609623dd26e774104584f1fa8a7ce844dc05",
+      "content": {
+        "keyword1": "365VPN",
+        "keyword2": "",
+        "primary_entity": "365VPN",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "365VPN 官网整理机场订阅、网络加速与客户端下载入口，说明使用场景与操作步骤，方便按设备选择客户端并对照套餐完成配置。",
+          "AI_DESCRIPTION": "365VPN 官网整理机场订阅、网络加速与客户端下载入口，说明使用场景与操作步骤，方便按设备选择客户端并对照套餐完成配置。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{scroll-behavior:auto}body{font-family:system-ui,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#f7f4ee;color:#15241c;line-height:1.75;font-size:17px}a{color:#1e4d36;text-decoration:underline}a:hover{color:#0f2f22}.bar{border-bottom:1px solid #d8e0d6;background:#f7f4ee}.bar-inner{max-width:1080px;margin:0 auto;padding:14px 20px;display:flex;flex-wrap:wrap;gap:10px 18px;align-items:center;justify-content:space-between}.brand-mark{font-weight:700;letter-spacing:.04em;color:#1e4d36;text-decoration:none;font-size:1.05rem}.nav{display:flex;flex-wrap:wrap;gap:10px 16px}.nav a{text-decoration:none;color:#355246;font-size:.95rem}.wrap{max-width:1080px;margin:0 auto;padding:0 20px}.hero{padding:16vh 20px 12vh;max-width:1080px;margin:0 auto}.hero h1{font-size:clamp(2.8rem,11vw,5.2rem);line-height:1.08;font-weight:720;color:#1e4d36;letter-spacing:-.03em;max-width:12ch}.hero .lead{margin-top:28px;max-width:34em;font-size:1.12rem;color:#355246}.rule{width:72px;height:4px;background:#1e4d36;margin:28px 0 0}main{display:block}section{padding:56px 0}h2{font-size:clamp(1.6rem,4vw,2.15rem);color:#1e4d36;line-height:1.25;margin-bottom:18px}h3{font-size:1.15rem;color:#1e4d36;margin:18px 0 8px}p{margin:0 0 14px}.muted{color:#4a5c52}.scene{padding:22px 0;border-top:1px solid #d8e0d6}.scene:last-child{border-bottom:1px solid #d8e0d6}.idx{display:block;font-size:.82rem;letter-spacing:.12em;color:#1e4d36;margin-bottom:6px}.band{background:#1e4d36;color:#f7f4ee;padding:64px 0}.band h2,.band p,.band a{color:#f7f4ee}.band a{text-decoration:underline}.steps{padding:0;list-style:none;counter-reset:st}.steps li{counter-increment:st;padding:16px 0 16px 52px;position:relative;border-bottom:1px solid #d8e0d6}.steps li::before{content:counter(st);position:absolute;left:0;top:16px;width:36px;height:36px;border:1px solid #1e4d36;color:#1e4d36;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:.95rem}details{background:#fff;border:1px solid #d5ddd6;margin:0 0 10px;padding:4px 16px}summary{cursor:pointer;font-weight:650;padding:12px 0;color:#1e4d36}details p{padding:0 0 12px;color:#355246}footer{padding:40px 20px 56px;color:#4a5c52;font-size:.92rem;border-top:1px solid #d8e0d6}.foot{max-width:1080px;margin:0 auto}@media (max-width:640px){.hero{padding:12vh 20px 8vh}section{padding:40px 0}.band{padding:48px 0}}</style><header class=\"bar\"><div class=\"bar-inner\"><a class=\"brand-mark\" href=\"#top\">365VPN</a><nav class=\"nav\"><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端</a><a href=\"#guide\">说明</a><a href=\"#faq\">问答</a></nav></div></header><main id=\"top\"><div class=\"hero\"><h1>365VPN</h1><p class=\"lead\">面向跨境访问与日常网络加速的订阅入口。本页用留白与长文把品牌说明、使用场景、套餐与客户端选择摊开，方便你对照设备完成下载与导入。</p><div class=\"rule\"></div></div><section id=\"intro\"><div class=\"wrap\"><h2>品牌简介</h2><p>365VPN 是一个以机场订阅为核心的网络加速服务品牌。页面聚焦两件事：让你看清套餐分层，以及按系统挑选客户端。正文不罗列未经验证的节点规模、测速数字或用户评价，具体额度与价格只出现在套餐模块中。</p><p class=\"muted\">若你在寻找 365VPN 官网、梯子与加速器相关说明，可把本页当作目录：先读场景，再看套餐，最后在客户端区块完成下载。链接均为页内锚点，下载入口由客户端模块统一给出。</p></div></section><section id=\"scenes\"><div class=\"wrap\"><h2>使用场景</h2><p>加速需求通常来自路径，而不是口号。下面按真实工作流拆开，便于判断自己是否需要订阅。</p><article class=\"scene\"><span class=\"idx\">01</span><h3>远程协作与云文档</h3><p>跨国会议、代码仓库与在线白板对延迟敏感。先保证设备能稳定连上订阅，再在客户端里切换线路，而不是同时打开多个加速工具互相抢路由。</p></article><article class=\"scene\"><span class=\"idx\">02</span><h3>学术检索与公开资料</h3><p>期刊站点、预印本与公开数据集常常分布在不同区域。适合把 365VPN 当作访问通道，而不是下载站；资料仍应通过原站点获取。</p></article><article class=\"scene\"><span class=\"idx\">03</span><h3>影像与长视频浏览</h3><p>流媒体是否可播，取决于套餐标注的解锁范围与当时线路质量。选择客户端后，优先使用该应用内的节点列表，避免浏览器插件与系统代理叠床架屋。</p></article><article class=\"scene\"><span class=\"idx\">04</span><h3>对战与语音</h3><p>游戏加速看的是丢包与抖动。若套餐模块写明游戏向优化，再把它作为优先选项；否则先用标准线路完成连通，再按客户端内延迟排序。</p></article><article class=\"scene\"><span class=\"idx\">05</span><h3>家庭或多台终端共用</h3><p>手机、电脑与平板同时在线时，以套餐允许的设备数为准。客户端选择应覆盖你真正在用的系统，而不是一次安装全部平台。</p></article></div></section><section id=\"plans\"><div class=\"wrap\"><h2>套餐说明</h2><p>以下为站点统一注入的价格与权益，请以模块实时展示为准。正文不重复抄写月费、年费或流量数字，避免与结算页不一致。</p>{{PLANS_HTML}}</div></section><section class=\"band\" id=\"clients\"><div class=\"wrap\"><h2>客户端选择</h2><p>365VPN 的使用体验很大程度取决于客户端是否与系统匹配。请先确认设备系统，再进入对应下载入口；导入订阅后在客户端内启用系统代理或 TUN，不要混用多个相互冲突的开关。</p><p>电脑侧优先选择可导入订阅链接的桌面客户端，手机侧使用对应商店或模块提供的安装包。若某一入口无法打开，回到本区块更换同系统的备用客户端即可。</p>{{CLIENTS_HTML}}</div></section><section id=\"guide\"><div class=\"wrap\"><h2>操作说明</h2><p>把流程压成四步，减少来回跳转。遇到导入失败，优先检查订阅是否完整复制，而不是反复重装。</p><ol class=\"steps\"><li>在套餐模块确认流量与同时在线设备是否覆盖你的使用强度，完成订阅获取。</li><li>回到客户端选择区，按 Windows、macOS、Android 或 iOS 打开对应入口并完成安装。</li><li>将订阅地址粘贴到客户端的订阅栏，更新节点列表后挑选一条可用线路。</li><li>开启连接，用浏览器访问目标站点验证；若失败，更换线路或更换客户端后重试。</li></ol></div></section><section id=\"faq\"><div class=\"wrap\"><h2>常见问题</h2><details><summary>365VPN 是什么服务？</summary><p>365VPN 提供机场订阅与网络加速入口，帮助用户在跨境访问、资料检索和日常加速场景中连接可用线路。本站是品牌说明与下载指引页，不以未公示的节点数量作为卖点。</p></details><details><summary>如何在官网完成客户端下载？</summary><p>请滚动到「客户端选择」区块，按操作系统点选模块给出的链接。不要从来路不明的网盘获取安装包，以免订阅被替换或证书被篡改。</p></details><details><summary>梯子、加速器与机场订阅有何关系？</summary><p>在中文语境里，这三者常指向同一类跨境网络工具：机场负责订阅与线路，客户端负责连接。365VPN 把订阅和客户端下载放在同一页，是为了减少找入口的成本。</p></details><details><summary>套餐该怎么选，会不会和正文数字打架？</summary><p>不会。价格、流量与设备上限只呈现在套餐模块中。正文只解释选择逻辑：个人轻度使用看设备数，团队或多终端看流量与支持方式。</p></details><details><summary>第一次连接失败怎么办？</summary><p>依次检查：订阅是否整段复制、客户端是否已更新节点、系统时间是否准确、是否同时开了其他代理。仍失败时，换一条线路或换一个同系统客户端。</p></details><details><summary>可以只看客户端、稍后再订套餐吗？</summary><p>可以。先确认设备能安装对应客户端，再回到套餐模块下单。没有有效订阅时，客户端通常只能停留在未连接状态。</p></details><details><summary>本页是否承诺特定解锁或速度？</summary><p>不承诺。流媒体、游戏优化等描述以套餐模块中的条目为准；实际播放与延迟还受本地宽带、高峰时段和目标站点策略影响。</p></details></div></section></main><footer><div class=\"foot\">365VPN 官网 · 机场订阅与客户端下载说明 · <a href=\"#top\">回到顶部</a></div></footer>",
+          "hash": "a7030212411883ac5115c98bbd6fae0893cf6cc0f3ab9fda4a2a65432d666853",
+          "seo": {
+            "title": "365VPN 官网 – 梯子网络加速与客户端下载",
+            "keywords": "365VPN,365VPN官网,365VPN下载,VPN加速器,梯子,网络加速,机场订阅,客户端下载",
+            "description": "365VPN 官网整理机场订阅、网络加速与客户端下载入口，说明使用场景与操作步骤，方便按设备选择客户端并对照套餐完成配置。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lanzhouai.cn",
+    "host": "c.lanzhouai.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "lanzhouai.cn",
+      "url": "https://lanzhouai.cn/",
+      "label": "云图小镇",
+      "apex": "lanzhouai.cn",
+      "kind": null,
+      "identity": "resxpnwwj/page-6a816466f4552588b23aae1e"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "5efc8d7cb117b7f6797b7e1fde8b4d0c8a7e01ac3d6a87f78794873911f2339d",
+    "sitemap.xml": "a22340bb716440a27e4984231c014872fadb823773615b7a12bd729e5ec89634",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "84c2235d06283c2fc70a1e22f707e45ae6315698dd29959a9147d2218f632f0f",
+    "robots.txt": "f838b205b38d4dee708f5ebca23be769af057b189bc91cb394139f119709ea19",
+    "ec41fa4d0a9de38a9238653835bd494d.txt": "b212d2025c10893fae31da6954afa3ed8b85f2e52d14b491acd3b58614b82b15"
+  },
+  "revision": "4c442f905449b642cbc39284d3b98352ccc931adb920298ea1c6117b855ea8bd"
+}
